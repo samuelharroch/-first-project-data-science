@@ -29,5 +29,5 @@ Features like 'horse_number',	'horse_name',	'horse_id	jockey',	'trainer',	'actua
 
 Of course the 'length_behind_winner' feature was not selected because it already leads us to an even accurate result.
 #### The Models 
-The models selected are KNN - wher i ran all the K's in the interval (1-30) and also used KFold and Cross Validation, Logistic Regression, Decision tree, Random Forest, Gaussian Naive Bayes and Support Vector Machine.
+The models selected are KNN - where i ran all the K's in the interval (1-30) and also used KFold and Cross Validation, Logistic Regression, Decision tree, Random Forest, Gaussian Naive Bayes and Support Vector Machine.
 All models accuracies range from 0.76 to 0.80 , which is a good result, in relation to the distribution of the classification.
